@@ -1,0 +1,6 @@
+{
+  "name": "WikiBot",
+  "description": "Official WikiBot Line",
+  "repository": "https://github.com/kl9z/WikiBot",
+  "keywords": ["line bot", "messaging api"]
+}
